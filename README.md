@@ -1,6 +1,13 @@
-angular-registration-login-example
-==============================
+# QAWebTest
 
-AngularJS User Registration and Login Example
+Go to /testing directory using Command Line (Prompt)
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/03/10/AngularJS-User-Registration-and-Login-Example.aspx
+#Files
+On testing folder are 2 files conf.js and spec.js
+
+# Run tests
+Run "protractor conf.js" 
+
+
+#Note* 
+You need to run Angular app localally and also to run webdriver-manager start
