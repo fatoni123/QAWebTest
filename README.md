@@ -9,5 +9,5 @@ On testing folder are 2 files conf.js and spec.js
 Run "protractor conf.js" 
 
 
-#Note* 
+# Note* 
 You need to run Angular app localally and also to run webdriver-manager start
